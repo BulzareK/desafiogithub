@@ -1,9 +1,15 @@
 body {
   font-family: "Raleway", sans-serif;
+  background-color: beige;
 }
 
 .navbar {
   background-color: black;
+}
+
+.nav-link {
+  color: beige;
+  text-decoration: none;
 }
 /* Hero Section */
 
@@ -14,7 +20,7 @@ body {
   background-position: left;
 }
 
-/* Mis trabajos */
+/* Datos prácticos */
 
 #Datos-prácticos .image-top {
   height: 250px;
